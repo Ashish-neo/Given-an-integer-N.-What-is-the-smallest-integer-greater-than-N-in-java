@@ -8,7 +8,6 @@
 
 class Solution {
     public int getSum(int n){
-
         int sum=0;
         while (n != 0){
             sum=sum+n%10;
@@ -29,7 +28,5 @@ class Solution {
             k++;
         }
         return N;
-    }
-    
-    
+    } 
 }
