@@ -1,0 +1,1 @@
+# Given-an-integer-N.-What-is-the-smallest-integer-greater-than-N-in-java
