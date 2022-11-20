@@ -7,7 +7,7 @@
 // System.out.println("this is a debug message");
 
 code:---
-
+```
 class Solution {
     public int getSum(int n){
         int sum=0;
@@ -32,3 +32,5 @@ class Solution {
         return N;
     } 
 }
+```
+if you like the solution plz like the solution.
